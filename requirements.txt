@@ -1,3 +1,4 @@
+# Project dependencies for Low Light Image Enhancement
 tensorflow>=2.10.0
 streamlit>=1.20.0
 numpy>=1.20.0
